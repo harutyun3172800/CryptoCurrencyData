@@ -15,7 +15,9 @@ After running tool there will be some fileds to initialize for downloading data.
     data format yyyy-mm-dd
 3. To:
     data format yyyy-mm-dd
-
+4. With interval in hours:
+    e.g 1, 2, 6, 24
+    
 ## Authors
 
 * **Harutyun Shmavonyan** - (https://github.com/harutyun3172800)
